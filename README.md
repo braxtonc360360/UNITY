@@ -1,7 +1,7 @@
 # UNITY
-Homemade Distributed Computing Cluster
+##Homemade Distributed Computing Cluster
 
-Parts/ Computers Used in Build:
+###Parts/ Computers Used in Build:
 
 Head Node - Lenovo Idea Pad, Flex 5:
 Chip: AMD Ryzen 5500U
