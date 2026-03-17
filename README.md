@@ -12,12 +12,12 @@ OS: Linux Mint XFCE
 Chip: AMD Ryzen 5500  
 RAM: 8 Gigs DDR4  
 GPU: RTX 3060 TI  
-Storage: 500 Gig HDD  
+Storage: 64 Gig 3.0 USB Drive
 OS: HiveOS  
 
 #### AI Node - Dell Optiplex 3050:  
 Chip: i5-7500  
 RAM: 16 Gigs DDR4  
 GPU: RTX 3050 LP  
-Storage: 64 Gig 3.0 USB Drive  
+Storage: 500 Gig HDD
 OS: Ubuntu Server  
